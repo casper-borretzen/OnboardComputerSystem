@@ -1,5 +1,8 @@
 # Onboard Computer System
 
+> [!WARNING]
+> Repository moved to https://codeberg.org/lzzrhx/ocs
+
 Video: [Raspberry Pi “Onboard Computer System” for sailing vessels - Mk. II](https://youtu.be/9TLbTUpSJaA)
 
 Info/instructions: [readme.txt](ocs_files/.OnboardComputerSystem/readme.txt)
